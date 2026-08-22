@@ -1,0 +1,39 @@
+cashbackTransactionType options
+    earn
+    redeem
+    expire
+    reverse
+    adjust
+cashbackProgram
+    title
+    code
+    startDate optional
+    endDate optional
+    percentage realNumber optional
+    maximumAmount realNumber optional
+    currency optional
+    state
+    description optional
+    unique code
+cashbackAccount
+    customer
+    balance realNumber
+    currency
+    unique customer currency
+cashbackTransaction
+    cashbackAccount
+    cashbackProgram optional
+    cashbackTransactionType
+    transactionDate
+    amount realNumber
+    balance realNumber
+    order optional
+    payment optional
+    expiryDate optional
+    description optional
+cashbackRedemption
+    cashbackTransaction
+    order
+    redeemedDate
+    amount realNumber
+    unique cashbackTransaction
