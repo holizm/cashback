@@ -1,0 +1,4 @@
+[
+    { $match: { cashbackProgram } },
+    { $count: 'count' },
+]

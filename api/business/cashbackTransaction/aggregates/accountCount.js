@@ -1,0 +1,4 @@
+[
+    { $match: { cashbackAccount } },
+    { $count: 'count' },
+]

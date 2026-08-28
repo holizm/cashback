@@ -1,0 +1,4 @@
+[
+    { $match: { customer } },
+    { $count: 'count' },
+]

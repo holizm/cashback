@@ -1,0 +1,4 @@
+[
+    { $match: { order } },
+    { $count: 'count' },
+]
