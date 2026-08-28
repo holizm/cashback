@@ -11,6 +11,7 @@ export default [
             },
         ],
         icon: 'savings',
+        path: '/cashback',
         title: 'cashbackCashback',
     },
 ]
