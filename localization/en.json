@@ -1,11 +1,9 @@
 {
-    "common": {},
-    "api": {},
-    "panel": {
+    "common": {
+        "cashback": "Cashback",
         "account": "Cashback account",
         "amount": "Amount",
         "balance": "Balance",
-        "cashback": "Cashback",
         "code": "Code",
         "customer": "Customer",
         "description": "Description",
@@ -19,8 +17,5 @@
         "transactionDate": "Transaction date",
         "transactionType": "Transaction type",
         "transactions": "Cashback transactions"
-    },
-    "site": {
-        "cashback": "Cashback"
     }
 }

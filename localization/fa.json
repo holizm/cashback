@@ -1,11 +1,9 @@
 {
-    "common": {},
-    "api": {},
-    "panel": {
+    "common": {
+        "cashback": "بازگشت وجه",
         "account": "حساب بازگشت وجه",
         "amount": "مبلغ",
         "balance": "مانده",
-        "cashback": "بازگشت وجه",
         "code": "کد",
         "customer": "مشتری",
         "description": "توضیحات",
@@ -19,8 +17,5 @@
         "transactionDate": "تاریخ تراکنش",
         "transactionType": "نوع تراکنش",
         "transactions": "تراکنش‌های بازگشت وجه"
-    },
-    "site": {
-        "cashback": "بازگشت وجه"
     }
 }
