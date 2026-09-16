@@ -2,18 +2,12 @@
     "common": {
         "cashback": "Cashback",
         "account": "Cashback account",
-        "amount": "Amount",
         "balance": "Balance",
-        "code": "Code",
         "customer": "Customer",
-        "description": "Description",
-        "endDate": "End date",
         "maximumAmount": "Maximum amount",
         "percentage": "Percentage",
         "program": "Cashback program",
         "programs": "Cashback programs",
-        "startDate": "Start date",
-        "state": "State",
         "transactionDate": "Transaction date",
         "transactionType": "Transaction type",
         "transactions": "Cashback transactions"

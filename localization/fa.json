@@ -2,18 +2,12 @@
     "common": {
         "cashback": "بازگشت وجه",
         "account": "حساب بازگشت وجه",
-        "amount": "مبلغ",
         "balance": "مانده",
-        "code": "کد",
         "customer": "مشتری",
-        "description": "توضیحات",
-        "endDate": "تاریخ پایان",
         "maximumAmount": "حداکثر مبلغ",
         "percentage": "درصد",
         "program": "برنامه بازگشت وجه",
         "programs": "برنامه‌های بازگشت وجه",
-        "startDate": "تاریخ شروع",
-        "state": "مرحله",
         "transactionDate": "تاریخ تراکنش",
         "transactionType": "نوع تراکنش",
         "transactions": "تراکنش‌های بازگشت وجه"
