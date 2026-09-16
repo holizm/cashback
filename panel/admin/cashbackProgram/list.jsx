@@ -10,7 +10,7 @@ const headers = <>
     <th>cashbackCode</th>
     <th>cashbackPercentage</th>
     <th>cashbackEndDate</th>
-    <th>cashbackState</th>
+    <th>stateMachinesState</th>
 </>
 
 const row = item => <>
