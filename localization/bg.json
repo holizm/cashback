@@ -1,0 +1,15 @@
+{
+    "common": {
+        "cashback": "Връщане на пари",
+        "account": "Сметка за връщане на пари",
+        "balance": "Салдо",
+        "customer": "Клиент",
+        "maximumAmount": "Максимална сума",
+        "percentage": "Процент",
+        "program": "Програма за връщане на пари",
+        "programs": "Програми за връщане на пари",
+        "transactionDate": "Дата на транзакцията",
+        "transactionType": "Тип транзакция",
+        "transactions": "Транзакции за връщане на пари"
+    }
+}

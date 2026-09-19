@@ -1,0 +1,15 @@
+{
+    "common": {
+        "cashback": "ငွေပြန်အမ်းခြင်း",
+        "account": "ငွေပြန်အမ်း အကောင့်",
+        "balance": "လက်ကျန်",
+        "customer": "ဖောက်သည်",
+        "maximumAmount": "အများဆုံး ပမာဏ",
+        "percentage": "ရာခိုင်နှုန်း",
+        "program": "ငွေပြန်အမ်း အစီအစဉ်",
+        "programs": "ငွေပြန်အမ်း အစီအစဉ်များ",
+        "transactionDate": "ငွေလွှဲရက်",
+        "transactionType": "ငွေလွှဲ အမျိုးအစား",
+        "transactions": "ငွေပြန်အမ်း ငွေလွှဲများ"
+    }
+}

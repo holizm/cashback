@@ -1,0 +1,15 @@
+{
+    "common": {
+        "cashback": "कॅशबॅक",
+        "account": "कॅशबॅक खाते",
+        "balance": "शिल्लक",
+        "customer": "ग्राहक",
+        "maximumAmount": "कमाल रक्कम",
+        "percentage": "टक्केवारी",
+        "program": "कॅशबॅक कार्यक्रम",
+        "programs": "कॅशबॅक कार्यक्रम",
+        "transactionDate": "व्यवहाराची तारीख",
+        "transactionType": "व्यवहाराचा प्रकार",
+        "transactions": "कॅशबॅक व्यवहार"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "common": {
+        "cashback": "Zwrot gotówki",
+        "account": "Konto zwrotów",
+        "balance": "Saldo",
+        "customer": "Klient",
+        "maximumAmount": "Maksymalna kwota",
+        "percentage": "Procent",
+        "program": "Program zwrotów",
+        "programs": "Programy zwrotów",
+        "transactionDate": "Data transakcji",
+        "transactionType": "Typ transakcji",
+        "transactions": "Transakcje zwrotów"
+    }
+}

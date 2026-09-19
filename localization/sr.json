@@ -1,0 +1,15 @@
+{
+    "common": {
+        "cashback": "Повраћај новца",
+        "account": "Рачун повраћаја новца",
+        "balance": "Стање",
+        "customer": "Клијент",
+        "maximumAmount": "Максимални износ",
+        "percentage": "Проценат",
+        "program": "Програм повраћаја новца",
+        "programs": "Програми повраћаја новца",
+        "transactionDate": "Датум трансакције",
+        "transactionType": "Врста трансакције",
+        "transactions": "Трансакције повраћаја новца"
+    }
+}

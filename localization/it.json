@@ -1,0 +1,15 @@
+{
+    "common": {
+        "cashback": "Cashback",
+        "account": "Conto cashback",
+        "balance": "Saldo",
+        "customer": "Cliente",
+        "maximumAmount": "Importo massimo",
+        "percentage": "Percentuale",
+        "program": "Programma cashback",
+        "programs": "Programmi cashback",
+        "transactionDate": "Data della transazione",
+        "transactionType": "Tipo di transazione",
+        "transactions": "Transazioni cashback"
+    }
+}

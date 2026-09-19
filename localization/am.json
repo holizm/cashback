@@ -1,0 +1,15 @@
+{
+    "common": {
+        "cashback": "ገንዘብ ተመላሽ",
+        "account": "የገንዘብ ተመላሽ መለያ",
+        "balance": "ቀሪ ሂሳብ",
+        "customer": "ደንበኛ",
+        "maximumAmount": "ከፍተኛው መጠን",
+        "percentage": "መቶኛ",
+        "program": "የገንዘብ ተመላሽ ፕሮግራም",
+        "programs": "የገንዘብ ተመላሽ ፕሮግራሞች",
+        "transactionDate": "የግብይት ቀን",
+        "transactionType": "የግብይት ዓይነት",
+        "transactions": "የገንዘብ ተመላሽ ግብይቶች"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "common": {
+        "cashback": "క్యాష్‌బ్యాక్",
+        "account": "క్యాష్‌బ్యాక్ ఖాతా",
+        "balance": "నిల్వ",
+        "customer": "వినియోగదారు",
+        "maximumAmount": "గరిష్ఠ మొత్తం",
+        "percentage": "శాతం",
+        "program": "క్యాష్‌బ్యాక్ కార్యక్రమం",
+        "programs": "క్యాష్‌బ్యాక్ కార్యక్రమాలు",
+        "transactionDate": "లావాదేవీ తేదీ",
+        "transactionType": "లావాదేవీ రకం",
+        "transactions": "క్యాష్‌బ్యాక్ లావాదేవీలు"
+    }
+}

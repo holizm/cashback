@@ -1,0 +1,15 @@
+{
+    "common": {
+        "cashback": "Owó àpadà",
+        "account": "Àkọọ́lẹ̀ owó àpadà",
+        "balance": "Ìyókù",
+        "customer": "Oníbàárà",
+        "maximumAmount": "Iye tó pọ̀ jù",
+        "percentage": "Ìdá ọgọ́rùn-ún",
+        "program": "Ètò owó àpadà",
+        "programs": "Àwọn ètò owó àpadà",
+        "transactionDate": "Ọjọ́ ìdúnàádúrà",
+        "transactionType": "Irú ìdúnàádúrà",
+        "transactions": "Àwọn ìdúnàádúrà owó àpadà"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "common": {
+        "cashback": "Кэшбэк",
+        "account": "Счёт кэшбэка",
+        "balance": "Баланс",
+        "customer": "Клиент",
+        "maximumAmount": "Максимальная сумма",
+        "percentage": "Процент",
+        "program": "Программа кэшбэка",
+        "programs": "Программы кэшбэка",
+        "transactionDate": "Дата операции",
+        "transactionType": "Тип операции",
+        "transactions": "Операции кэшбэка"
+    }
+}

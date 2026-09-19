@@ -1,0 +1,15 @@
+{
+    "common": {
+        "cashback": "Nakit iade",
+        "account": "Nakit iade hesabı",
+        "balance": "Bakiye",
+        "customer": "Müşteri",
+        "maximumAmount": "Azami tutar",
+        "percentage": "Yüzde",
+        "program": "Nakit iade programı",
+        "programs": "Nakit iade programları",
+        "transactionDate": "İşlem tarihi",
+        "transactionType": "İşlem türü",
+        "transactions": "Nakit iade işlemleri"
+    }
+}

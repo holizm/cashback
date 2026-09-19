@@ -1,0 +1,15 @@
+{
+    "common": {
+        "cashback": "Mayar da kuɗi",
+        "account": "Asusun mayar da kuɗi",
+        "balance": "Ma’auni",
+        "customer": "Abokin ciniki",
+        "maximumAmount": "Mafi girman adadi",
+        "percentage": "Kashi",
+        "program": "Shirin mayar da kuɗi",
+        "programs": "Shirye-shiryen mayar da kuɗi",
+        "transactionDate": "Ranar ciniki",
+        "transactionType": "Nau’in ciniki",
+        "transactions": "Cinikin mayar da kuɗi"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "common": {
+        "cashback": "キャッシュバック",
+        "account": "キャッシュバック口座",
+        "balance": "残高",
+        "customer": "顧客",
+        "maximumAmount": "上限額",
+        "percentage": "割合",
+        "program": "キャッシュバックプログラム",
+        "programs": "キャッシュバックプログラム",
+        "transactionDate": "取引日",
+        "transactionType": "取引種別",
+        "transactions": "キャッシュバック取引"
+    }
+}

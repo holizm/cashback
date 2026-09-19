@@ -1,0 +1,15 @@
+{
+    "common": {
+        "cashback": "Cashback",
+        "account": "Cashbackrekening",
+        "balance": "Saldo",
+        "customer": "Klant",
+        "maximumAmount": "Maximumbedrag",
+        "percentage": "Percentage",
+        "program": "Cashbackprogramma",
+        "programs": "Cashbackprogramma’s",
+        "transactionDate": "Transactiedatum",
+        "transactionType": "Transactietype",
+        "transactions": "Cashbacktransacties"
+    }
+}

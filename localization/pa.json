@@ -1,0 +1,15 @@
+{
+    "common": {
+        "cashback": "ਕੈਸ਼ਬੈਕ",
+        "account": "ਕੈਸ਼ਬੈਕ ਖਾਤਾ",
+        "balance": "ਬਕਾਇਆ",
+        "customer": "ਗਾਹਕ",
+        "maximumAmount": "ਵੱਧ ਤੋਂ ਵੱਧ ਰਕਮ",
+        "percentage": "ਪ੍ਰਤੀਸ਼ਤ",
+        "program": "ਕੈਸ਼ਬੈਕ ਪ੍ਰੋਗਰਾਮ",
+        "programs": "ਕੈਸ਼ਬੈਕ ਪ੍ਰੋਗਰਾਮ",
+        "transactionDate": "ਲੈਣ-ਦੇਣ ਦੀ ਮਿਤੀ",
+        "transactionType": "ਲੈਣ-ਦੇਣ ਦੀ ਕਿਸਮ",
+        "transactions": "ਕੈਸ਼ਬੈਕ ਲੈਣ-ਦੇਣ"
+    }
+}
