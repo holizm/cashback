@@ -1,14 +1,9 @@
 {
     "common": {
         "account": "Rahanpalautustili",
-        "balance": "Saldo",
         "cashback": "Rahanpalautus",
-        "maximumAmount": "Enimmäismäärä",
-        "percentage": "Prosenttiosuus",
         "program": "Rahanpalautusohjelma",
         "programs": "Rahanpalautusohjelmat",
-        "transactionDate": "Tapahtumapäivä",
-        "transactionType": "Tapahtumatyyppi",
         "transactions": "Rahanpalautustapahtumat"
     }
 }

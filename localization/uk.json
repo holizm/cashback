@@ -1,14 +1,9 @@
 {
     "common": {
         "account": "Рахунок кешбеку",
-        "balance": "Баланс",
         "cashback": "Кешбек",
-        "maximumAmount": "Максимальна сума",
-        "percentage": "Відсоток",
         "program": "Програма кешбеку",
         "programs": "Програми кешбеку",
-        "transactionDate": "Дата операції",
-        "transactionType": "Тип операції",
         "transactions": "Операції кешбеку"
     }
 }

@@ -1,14 +1,9 @@
 {
     "common": {
         "account": "返现账户",
-        "balance": "余额",
         "cashback": "返现",
-        "maximumAmount": "最高金额",
-        "percentage": "百分比",
         "program": "返现方案",
         "programs": "返现方案",
-        "transactionDate": "交易日期",
-        "transactionType": "交易类型",
         "transactions": "返现交易"
     }
 }

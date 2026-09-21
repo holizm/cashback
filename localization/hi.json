@@ -1,14 +1,9 @@
 {
     "common": {
         "account": "कैशबैक खाता",
-        "balance": "शेष राशि",
         "cashback": "कैशबैक",
-        "maximumAmount": "अधिकतम राशि",
-        "percentage": "प्रतिशत",
         "program": "कैशबैक कार्यक्रम",
         "programs": "कैशबैक कार्यक्रम",
-        "transactionDate": "लेनदेन की तिथि",
-        "transactionType": "लेनदेन का प्रकार",
         "transactions": "कैशबैक लेनदेन"
     }
 }

@@ -1,14 +1,9 @@
 {
     "common": {
         "account": "Akaunti ya marejesho",
-        "balance": "Salio",
         "cashback": "Marejesho ya fedha",
-        "maximumAmount": "Kiasi cha juu",
-        "percentage": "Asilimia",
         "program": "Mpango wa marejesho",
         "programs": "Mipango ya marejesho",
-        "transactionDate": "Tarehe ya muamala",
-        "transactionType": "Aina ya muamala",
         "transactions": "Miamala ya marejesho"
     }
 }

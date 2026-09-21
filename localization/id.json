@@ -1,14 +1,9 @@
 {
     "common": {
         "account": "Akun cashback",
-        "balance": "Saldo",
         "cashback": "Cashback",
-        "maximumAmount": "Jumlah maksimum",
-        "percentage": "Persentase",
         "program": "Program cashback",
         "programs": "Program cashback",
-        "transactionDate": "Tanggal transaksi",
-        "transactionType": "Jenis transaksi",
         "transactions": "Transaksi cashback"
     }
 }

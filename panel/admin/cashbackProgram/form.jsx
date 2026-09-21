@@ -23,11 +23,11 @@ const inputs = <>
         property='endDate'
     />
     <Numeric
-        placeholder='cashbackPercentage'
+        placeholder='corePercentage'
         property='percentage'
     />
     <Numeric
-        placeholder='cashbackMaximumAmount'
+        placeholder='coreMaximumAmount'
         property='maximumAmount'
     />
     <LongText

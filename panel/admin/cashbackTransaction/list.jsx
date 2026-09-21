@@ -6,10 +6,10 @@ import Form from './form'
 
 const headers = <>
     <th start>coreCustomer</th>
-    <th>cashbackTransactionType</th>
-    <th>cashbackTransactionDate</th>
+    <th>coreTransactionType</th>
+    <th>coreTransactionDate</th>
     <th>cashbackAmount</th>
-    <th>cashbackBalance</th>
+    <th>coreBalance</th>
 </>
 
 const row = item => <>

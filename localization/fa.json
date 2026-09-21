@@ -1,14 +1,9 @@
 {
     "common": {
         "account": "حساب بازگشت وجه",
-        "balance": "مانده",
         "cashback": "بازگشت وجه",
-        "maximumAmount": "حداکثر مبلغ",
-        "percentage": "درصد",
         "program": "برنامه بازگشت وجه",
         "programs": "برنامه‌های بازگشت وجه",
-        "transactionDate": "تاریخ تراکنش",
-        "transactionType": "نوع تراکنش",
         "transactions": "تراکنش‌های بازگشت وجه"
     }
 }

@@ -1,14 +1,9 @@
 {
     "common": {
         "account": "Cont de cashback",
-        "balance": "Sold",
         "cashback": "Cashback",
-        "maximumAmount": "Sumă maximă",
-        "percentage": "Procent",
         "program": "Program de cashback",
         "programs": "Programe de cashback",
-        "transactionDate": "Data tranzacției",
-        "transactionType": "Tipul tranzacției",
         "transactions": "Tranzacții cashback"
     }
 }

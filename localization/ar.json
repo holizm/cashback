@@ -1,14 +1,9 @@
 {
     "common": {
         "account": "حساب الاسترداد النقدي",
-        "balance": "الرصيد",
         "cashback": "استرداد نقدي",
-        "maximumAmount": "الحد الأقصى للمبلغ",
-        "percentage": "النسبة المئوية",
         "program": "برنامج الاسترداد النقدي",
         "programs": "برامج الاسترداد النقدي",
-        "transactionDate": "تاريخ المعاملة",
-        "transactionType": "نوع المعاملة",
         "transactions": "معاملات الاسترداد النقدي"
     }
 }

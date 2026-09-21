@@ -1,14 +1,9 @@
 {
     "common": {
         "account": "Compte de remise en argent",
-        "balance": "Solde",
         "cashback": "Remise en argent",
-        "maximumAmount": "Montant maximal",
-        "percentage": "Pourcentage",
         "program": "Programme de remise en argent",
         "programs": "Programmes de remise en argent",
-        "transactionDate": "Date de transaction",
-        "transactionType": "Type de transaction",
         "transactions": "Transactions de remise en argent"
     }
 }

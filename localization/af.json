@@ -1,14 +1,9 @@
 {
     "common": {
         "account": "Kontantterugbetalingsrekening",
-        "balance": "Saldo",
         "cashback": "Kontantterugbetaling",
-        "maximumAmount": "Maksimum bedrag",
-        "percentage": "Persentasie",
         "program": "Kontantterugbetalingsprogram",
         "programs": "Kontantterugbetalingsprogramme",
-        "transactionDate": "Transaksiedatum",
-        "transactionType": "Transaksietipe",
         "transactions": "Kontantterugbetalingstransaksies"
     }
 }

@@ -1,14 +1,9 @@
 {
     "common": {
         "account": "חשבון החזר כספי",
-        "balance": "יתרה",
         "cashback": "החזר כספי",
-        "maximumAmount": "סכום מרבי",
-        "percentage": "אחוז",
         "program": "תוכנית החזר כספי",
         "programs": "תוכניות החזר כספי",
-        "transactionDate": "תאריך עסקה",
-        "transactionType": "סוג עסקה",
         "transactions": "עסקאות החזר כספי"
     }
 }

@@ -1,14 +1,9 @@
 {
     "common": {
         "account": "કૅશબૅક ખાતું",
-        "balance": "બાકી રકમ",
         "cashback": "કૅશબૅક",
-        "maximumAmount": "મહત્તમ રકમ",
-        "percentage": "ટકાવારી",
         "program": "કૅશબૅક કાર્યક્રમ",
         "programs": "કૅશબૅક કાર્યક્રમો",
-        "transactionDate": "વ્યવહારની તારીખ",
-        "transactionType": "વ્યવહારનો પ્રકાર",
         "transactions": "કૅશબૅક વ્યવહારો"
     }
 }

@@ -1,14 +1,9 @@
 {
     "common": {
         "account": "Cashback account",
-        "balance": "Balance",
         "cashback": "Cashback",
-        "maximumAmount": "Maximum amount",
-        "percentage": "Percentage",
         "program": "Cashback program",
         "programs": "Cashback programs",
-        "transactionDate": "Transaction date",
-        "transactionType": "Transaction type",
         "transactions": "Cashback transactions"
     }
 }

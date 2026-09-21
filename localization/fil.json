@@ -1,14 +1,9 @@
 {
     "common": {
         "account": "Cashback account",
-        "balance": "Balanse",
         "cashback": "Cashback",
-        "maximumAmount": "Pinakamataas na halaga",
-        "percentage": "Porsiyento",
         "program": "Cashback program",
         "programs": "Mga cashback program",
-        "transactionDate": "Petsa ng transaksyon",
-        "transactionType": "Uri ng transaksyon",
         "transactions": "Mga cashback transaction"
     }
 }

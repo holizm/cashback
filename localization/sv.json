@@ -1,14 +1,9 @@
 {
     "common": {
         "account": "Cashbackkonto",
-        "balance": "Saldo",
         "cashback": "Cashback",
-        "maximumAmount": "Maxbelopp",
-        "percentage": "Procentandel",
         "program": "Cashbackprogram",
         "programs": "Cashbackprogram",
-        "transactionDate": "Transaktionsdatum",
-        "transactionType": "Transaktionstyp",
         "transactions": "Cashbacktransaktioner"
     }
 }

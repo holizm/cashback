@@ -21,12 +21,12 @@ const inputs = <>
             'reverse',
             'adjust',
         ]}
-        placeholder='cashbackTransactionType'
+        placeholder='coreTransactionType'
         property='cashbackTransactionType'
         required
     />
     <DateTime
-        placeholder='cashbackTransactionDate'
+        placeholder='coreTransactionDate'
         property='transactionDate'
         required
     />

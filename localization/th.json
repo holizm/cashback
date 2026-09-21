@@ -1,14 +1,9 @@
 {
     "common": {
         "account": "บัญชีเงินคืน",
-        "balance": "ยอดคงเหลือ",
         "cashback": "เงินคืน",
-        "maximumAmount": "จำนวนเงินสูงสุด",
-        "percentage": "เปอร์เซ็นต์",
         "program": "โปรแกรมเงินคืน",
         "programs": "โปรแกรมเงินคืน",
-        "transactionDate": "วันที่ทำรายการ",
-        "transactionType": "ประเภทรายการ",
         "transactions": "รายการเงินคืน"
     }
 }

@@ -1,14 +1,9 @@
 {
     "common": {
         "account": "Pénzvisszatérítési számla",
-        "balance": "Egyenleg",
         "cashback": "Pénzvisszatérítés",
-        "maximumAmount": "Maximális összeg",
-        "percentage": "Százalék",
         "program": "Pénzvisszatérítési program",
         "programs": "Pénzvisszatérítési programok",
-        "transactionDate": "Tranzakció dátuma",
-        "transactionType": "Tranzakció típusa",
         "transactions": "Pénzvisszatérítési tranzakciók"
     }
 }

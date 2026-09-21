@@ -1,14 +1,9 @@
 {
     "common": {
         "account": "Cuenta de reembolso",
-        "balance": "Saldo",
         "cashback": "Reembolso",
-        "maximumAmount": "Importe máximo",
-        "percentage": "Porcentaje",
         "program": "Programa de reembolso",
         "programs": "Programas de reembolso",
-        "transactionDate": "Fecha de transacción",
-        "transactionType": "Tipo de transacción",
         "transactions": "Transacciones de reembolso"
     }
 }

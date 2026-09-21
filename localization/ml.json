@@ -1,14 +1,9 @@
 {
     "common": {
         "account": "ക്യാഷ്ബാക്ക് അക്കൗണ്ട്",
-        "balance": "ബാക്കി",
         "cashback": "ക്യാഷ്ബാക്ക്",
-        "maximumAmount": "പരമാവധി തുക",
-        "percentage": "ശതമാനം",
         "program": "ക്യാഷ്ബാക്ക് പദ്ധതി",
         "programs": "ക്യാഷ്ബാക്ക് പദ്ധതികൾ",
-        "transactionDate": "ഇടപാട് തീയതി",
-        "transactionType": "ഇടപാട് തരം",
         "transactions": "ക്യാഷ്ബാക്ക് ഇടപാടുകൾ"
     }
 }

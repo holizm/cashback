@@ -8,7 +8,7 @@ import Form from './form'
 const headers = <>
     <th start>cashbackProgram</th>
     <th>cashbackCode</th>
-    <th>cashbackPercentage</th>
+    <th>corePercentage</th>
     <th>cashbackEndDate</th>
     <th>stateMachinesState</th>
 </>

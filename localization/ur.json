@@ -1,14 +1,9 @@
 {
     "common": {
         "account": "کیش بیک کھاتہ",
-        "balance": "بیلنس",
         "cashback": "کیش بیک",
-        "maximumAmount": "زیادہ سے زیادہ رقم",
-        "percentage": "فیصد",
         "program": "کیش بیک پروگرام",
         "programs": "کیش بیک پروگرام",
-        "transactionDate": "لین دین کی تاریخ",
-        "transactionType": "لین دین کی قسم",
         "transactions": "کیش بیک لین دین"
     }
 }

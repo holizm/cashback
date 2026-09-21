@@ -1,14 +1,9 @@
 {
     "common": {
         "account": "ক্যাশব্যাক হিসাব",
-        "balance": "ব্যালেন্স",
         "cashback": "ক্যাশব্যাক",
-        "maximumAmount": "সর্বোচ্চ পরিমাণ",
-        "percentage": "শতাংশ",
         "program": "ক্যাশব্যাক কর্মসূচি",
         "programs": "ক্যাশব্যাক কর্মসূচিসমূহ",
-        "transactionDate": "লেনদেনের তারিখ",
-        "transactionType": "লেনদেনের ধরন",
         "transactions": "ক্যাশব্যাক লেনদেন"
     }
 }
