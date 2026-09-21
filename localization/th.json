@@ -1,9 +1,8 @@
 {
     "common": {
-        "cashback": "เงินคืน",
         "account": "บัญชีเงินคืน",
         "balance": "ยอดคงเหลือ",
-        "customer": "ลูกค้า",
+        "cashback": "เงินคืน",
         "maximumAmount": "จำนวนเงินสูงสุด",
         "percentage": "เปอร์เซ็นต์",
         "program": "โปรแกรมเงินคืน",

@@ -1,9 +1,8 @@
 {
     "common": {
-        "cashback": "Cashback",
         "account": "Cashbackrekening",
         "balance": "Saldo",
-        "customer": "Klant",
+        "cashback": "Cashback",
         "maximumAmount": "Maximumbedrag",
         "percentage": "Percentage",
         "program": "Cashbackprogramma",

@@ -1,9 +1,8 @@
 {
     "common": {
-        "cashback": "Pénzvisszatérítés",
         "account": "Pénzvisszatérítési számla",
         "balance": "Egyenleg",
-        "customer": "Ügyfél",
+        "cashback": "Pénzvisszatérítés",
         "maximumAmount": "Maximális összeg",
         "percentage": "Százalék",
         "program": "Pénzvisszatérítési program",

@@ -1,9 +1,8 @@
 {
     "common": {
-        "cashback": "Hoàn tiền",
         "account": "Tài khoản hoàn tiền",
         "balance": "Số dư",
-        "customer": "Khách hàng",
+        "cashback": "Hoàn tiền",
         "maximumAmount": "Số tiền tối đa",
         "percentage": "Tỷ lệ phần trăm",
         "program": "Chương trình hoàn tiền",

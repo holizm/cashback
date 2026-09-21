@@ -1,9 +1,8 @@
 {
     "common": {
-        "cashback": "Marejesho ya fedha",
         "account": "Akaunti ya marejesho",
         "balance": "Salio",
-        "customer": "Mteja",
+        "cashback": "Marejesho ya fedha",
         "maximumAmount": "Kiasi cha juu",
         "percentage": "Asilimia",
         "program": "Mpango wa marejesho",

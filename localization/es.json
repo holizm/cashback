@@ -1,9 +1,8 @@
 {
     "common": {
-        "cashback": "Reembolso",
         "account": "Cuenta de reembolso",
         "balance": "Saldo",
-        "customer": "Cliente",
+        "cashback": "Reembolso",
         "maximumAmount": "Importe máximo",
         "percentage": "Porcentaje",
         "program": "Programa de reembolso",

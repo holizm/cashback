@@ -1,9 +1,8 @@
 {
     "common": {
-        "cashback": "Cashback",
         "account": "Cashback-Konto",
         "balance": "Guthaben",
-        "customer": "Kunde",
+        "cashback": "Cashback",
         "maximumAmount": "Höchstbetrag",
         "percentage": "Prozentsatz",
         "program": "Cashback-Programm",

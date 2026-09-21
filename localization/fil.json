@@ -1,9 +1,8 @@
 {
     "common": {
-        "cashback": "Cashback",
         "account": "Cashback account",
         "balance": "Balanse",
-        "customer": "Customer",
+        "cashback": "Cashback",
         "maximumAmount": "Pinakamataas na halaga",
         "percentage": "Porsiyento",
         "program": "Cashback program",

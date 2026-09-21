@@ -1,9 +1,8 @@
 {
     "common": {
-        "cashback": "بازگشت وجه",
         "account": "حساب بازگشت وجه",
         "balance": "مانده",
-        "customer": "مشتری",
+        "cashback": "بازگشت وجه",
         "maximumAmount": "حداکثر مبلغ",
         "percentage": "درصد",
         "program": "برنامه بازگشت وجه",

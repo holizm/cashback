@@ -1,9 +1,8 @@
 {
     "common": {
-        "cashback": "Cashback",
         "account": "Cashbackkonto",
         "balance": "Saldo",
-        "customer": "Kunde",
+        "cashback": "Cashback",
         "maximumAmount": "Maksimumbeløb",
         "percentage": "Procentdel",
         "program": "Cashbackprogram",

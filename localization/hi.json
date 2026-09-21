@@ -1,9 +1,8 @@
 {
     "common": {
-        "cashback": "कैशबैक",
         "account": "कैशबैक खाता",
         "balance": "शेष राशि",
-        "customer": "ग्राहक",
+        "cashback": "कैशबैक",
         "maximumAmount": "अधिकतम राशि",
         "percentage": "प्रतिशत",
         "program": "कैशबैक कार्यक्रम",

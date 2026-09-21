@@ -1,9 +1,8 @@
 {
     "common": {
-        "cashback": "Връщане на пари",
         "account": "Сметка за връщане на пари",
         "balance": "Салдо",
-        "customer": "Клиент",
+        "cashback": "Връщане на пари",
         "maximumAmount": "Максимална сума",
         "percentage": "Процент",
         "program": "Програма за връщане на пари",

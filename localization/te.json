@@ -1,9 +1,8 @@
 {
     "common": {
-        "cashback": "క్యాష్‌బ్యాక్",
         "account": "క్యాష్‌బ్యాక్ ఖాతా",
         "balance": "నిల్వ",
-        "customer": "వినియోగదారు",
+        "cashback": "క్యాష్‌బ్యాక్",
         "maximumAmount": "గరిష్ఠ మొత్తం",
         "percentage": "శాతం",
         "program": "క్యాష్‌బ్యాక్ కార్యక్రమం",

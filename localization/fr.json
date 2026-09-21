@@ -1,9 +1,8 @@
 {
     "common": {
-        "cashback": "Remise en argent",
         "account": "Compte de remise en argent",
         "balance": "Solde",
-        "customer": "Client",
+        "cashback": "Remise en argent",
         "maximumAmount": "Montant maximal",
         "percentage": "Pourcentage",
         "program": "Programme de remise en argent",

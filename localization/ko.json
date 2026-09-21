@@ -1,9 +1,8 @@
 {
     "common": {
-        "cashback": "캐시백",
         "account": "캐시백 계정",
         "balance": "잔액",
-        "customer": "고객",
+        "cashback": "캐시백",
         "maximumAmount": "최대 금액",
         "percentage": "비율",
         "program": "캐시백 프로그램",

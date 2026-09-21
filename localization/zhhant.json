@@ -1,9 +1,8 @@
 {
     "common": {
-        "cashback": "現金回饋",
         "account": "現金回饋帳戶",
         "balance": "餘額",
-        "customer": "客戶",
+        "cashback": "現金回饋",
         "maximumAmount": "最高金額",
         "percentage": "百分比",
         "program": "現金回饋方案",

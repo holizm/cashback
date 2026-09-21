@@ -5,7 +5,7 @@ import {
 import Form from './form'
 
 const headers = <>
-    <th start>cashbackCustomer</th>
+    <th start>coreCustomer</th>
     <th>cashbackTransactionType</th>
     <th>cashbackTransactionDate</th>
     <th>cashbackAmount</th>

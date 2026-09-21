@@ -1,9 +1,8 @@
 {
     "common": {
-        "cashback": "Cashback",
         "account": "Cashback account",
         "balance": "Balance",
-        "customer": "Customer",
+        "cashback": "Cashback",
         "maximumAmount": "Maximum amount",
         "percentage": "Percentage",
         "program": "Cashback program",

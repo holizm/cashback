@@ -1,9 +1,8 @@
 {
     "common": {
-        "cashback": "Cashback",
         "account": "Akun cashback",
         "balance": "Saldo",
-        "customer": "Pelanggan",
+        "cashback": "Cashback",
         "maximumAmount": "Jumlah maksimum",
         "percentage": "Persentase",
         "program": "Program cashback",

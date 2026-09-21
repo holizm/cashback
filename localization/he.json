@@ -1,9 +1,8 @@
 {
     "common": {
-        "cashback": "החזר כספי",
         "account": "חשבון החזר כספי",
         "balance": "יתרה",
-        "customer": "לקוח",
+        "cashback": "החזר כספי",
         "maximumAmount": "סכום מרבי",
         "percentage": "אחוז",
         "program": "תוכנית החזר כספי",

@@ -1,9 +1,8 @@
 {
     "common": {
-        "cashback": "Nakit iade",
         "account": "Nakit iade hesabı",
         "balance": "Bakiye",
-        "customer": "Müşteri",
+        "cashback": "Nakit iade",
         "maximumAmount": "Azami tutar",
         "percentage": "Yüzde",
         "program": "Nakit iade programı",

@@ -1,9 +1,8 @@
 {
     "common": {
-        "cashback": "Pulangan tunai",
         "account": "Akaun pulangan tunai",
         "balance": "Baki",
-        "customer": "Pelanggan",
+        "cashback": "Pulangan tunai",
         "maximumAmount": "Amaun maksimum",
         "percentage": "Peratusan",
         "program": "Program pulangan tunai",

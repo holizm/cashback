@@ -1,9 +1,8 @@
 {
     "common": {
-        "cashback": "ಕ್ಯಾಶ್‌ಬ್ಯಾಕ್",
         "account": "ಕ್ಯಾಶ್‌ಬ್ಯಾಕ್ ಖಾತೆ",
         "balance": "ಬಾಕಿ ಮೊತ್ತ",
-        "customer": "ಗ್ರಾಹಕ",
+        "cashback": "ಕ್ಯಾಶ್‌ಬ್ಯಾಕ್",
         "maximumAmount": "ಗರಿಷ್ಠ ಮೊತ್ತ",
         "percentage": "ಶೇಕಡಾವಾರು",
         "program": "ಕ್ಯಾಶ್‌ಬ್ಯಾಕ್ ಕಾರ್ಯಕ್ರಮ",

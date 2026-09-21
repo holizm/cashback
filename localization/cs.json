@@ -1,9 +1,8 @@
 {
     "common": {
-        "cashback": "Cashback",
         "account": "Cashbackový účet",
         "balance": "Zůstatek",
-        "customer": "Zákazník",
+        "cashback": "Cashback",
         "maximumAmount": "Maximální částka",
         "percentage": "Procento",
         "program": "Cashbackový program",

@@ -1,9 +1,8 @@
 {
     "common": {
-        "cashback": "Povrat novca",
         "account": "Račun povrata novca",
         "balance": "Stanje",
-        "customer": "Klijent",
+        "cashback": "Povrat novca",
         "maximumAmount": "Maksimalni iznos",
         "percentage": "Postotak",
         "program": "Program povrata novca",

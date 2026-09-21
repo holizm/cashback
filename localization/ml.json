@@ -1,9 +1,8 @@
 {
     "common": {
-        "cashback": "ക്യാഷ്ബാക്ക്",
         "account": "ക്യാഷ്ബാക്ക് അക്കൗണ്ട്",
         "balance": "ബാക്കി",
-        "customer": "ഉപഭോക്താവ്",
+        "cashback": "ക്യാഷ്ബാക്ക്",
         "maximumAmount": "പരമാവധി തുക",
         "percentage": "ശതമാനം",
         "program": "ക്യാഷ്ബാക്ക് പദ്ധതി",

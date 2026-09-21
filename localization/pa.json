@@ -1,9 +1,8 @@
 {
     "common": {
-        "cashback": "ਕੈਸ਼ਬੈਕ",
         "account": "ਕੈਸ਼ਬੈਕ ਖਾਤਾ",
         "balance": "ਬਕਾਇਆ",
-        "customer": "ਗਾਹਕ",
+        "cashback": "ਕੈਸ਼ਬੈਕ",
         "maximumAmount": "ਵੱਧ ਤੋਂ ਵੱਧ ਰਕਮ",
         "percentage": "ਪ੍ਰਤੀਸ਼ਤ",
         "program": "ਕੈਸ਼ਬੈਕ ਪ੍ਰੋਗਰਾਮ",

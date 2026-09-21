@@ -1,9 +1,8 @@
 {
     "common": {
-        "cashback": "Rahanpalautus",
         "account": "Rahanpalautustili",
         "balance": "Saldo",
-        "customer": "Asiakas",
+        "cashback": "Rahanpalautus",
         "maximumAmount": "Enimmäismäärä",
         "percentage": "Prosenttiosuus",
         "program": "Rahanpalautusohjelma",

@@ -1,9 +1,8 @@
 {
     "common": {
-        "cashback": "ক্যাশব্যাক",
         "account": "ক্যাশব্যাক হিসাব",
         "balance": "ব্যালেন্স",
-        "customer": "গ্রাহক",
+        "cashback": "ক্যাশব্যাক",
         "maximumAmount": "সর্বোচ্চ পরিমাণ",
         "percentage": "শতাংশ",
         "program": "ক্যাশব্যাক কর্মসূচি",

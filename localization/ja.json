@@ -1,9 +1,8 @@
 {
     "common": {
-        "cashback": "キャッシュバック",
         "account": "キャッシュバック口座",
         "balance": "残高",
-        "customer": "顧客",
+        "cashback": "キャッシュバック",
         "maximumAmount": "上限額",
         "percentage": "割合",
         "program": "キャッシュバックプログラム",

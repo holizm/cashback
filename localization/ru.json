@@ -1,9 +1,8 @@
 {
     "common": {
-        "cashback": "Кэшбэк",
         "account": "Счёт кэшбэка",
         "balance": "Баланс",
-        "customer": "Клиент",
+        "cashback": "Кэшбэк",
         "maximumAmount": "Максимальная сумма",
         "percentage": "Процент",
         "program": "Программа кэшбэка",
