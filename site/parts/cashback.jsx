@@ -1,4 +1,7 @@
-import { List } from 'core'
+import {
+    Item,
+    List,
+} from 'core'
 import { CashbackBalance } from 'cashback'
 
 export default ({
@@ -8,10 +11,15 @@ export default ({
     <h1 class='title'>{translations?.cashbackCashback}</h1>
     <List class='items'>
         {
-            cashbackAccounts?.data?.map(cashbackAccount => <CashbackBalance
-                cashbackAccount={cashbackAccount}
+            cashbackAccounts?.data?.map(cashbackAccount => <Item
+                inList
                 key={cashbackAccount.id}
-            />)
+            >
+                <CashbackBalance
+                    cashbackAccount={cashbackAccount}
+                    key={cashbackAccount.id}
+                />
+            </Item>)
         }
     </List>
 </main>
