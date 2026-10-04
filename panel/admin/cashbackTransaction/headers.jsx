@@ -1,7 +1,7 @@
 export default <>
-    <th start>coreCustomer</th>
-    <th>coreTransactionType</th>
-    <th>coreTransactionDate</th>
-    <th>cashbackAmount</th>
-    <th>coreBalance</th>
+    <th start>customer</th>
+    <th>transactionType</th>
+    <th>transactionDate</th>
+    <th>amount</th>
+    <th>balance</th>
 </>

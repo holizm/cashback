@@ -9,7 +9,7 @@ import {
 
 const inputs = <>
     <Text
-        placeholder='cashbackAccount'
+        placeholder='account'
         property='cashbackAccount'
         required
     />
@@ -21,22 +21,22 @@ const inputs = <>
             'reverse',
             'adjust',
         ]}
-        placeholder='coreTransactionType'
+        placeholder='transactionType'
         property='cashbackTransactionType'
         required
     />
     <DateTime
-        placeholder='coreTransactionDate'
+        placeholder='transactionDate'
         property='transactionDate'
         required
     />
     <Numeric
-        placeholder='cashbackAmount'
+        placeholder='amount'
         property='amount'
         required
     />
     <LongText
-        placeholder='cashbackDescription'
+        placeholder='description'
         property='description'
     />
 </>

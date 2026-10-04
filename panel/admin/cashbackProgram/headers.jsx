@@ -1,7 +1,7 @@
 export default <>
-    <th start>cashbackProgram</th>
-    <th>cashbackCode</th>
-    <th>corePercentage</th>
-    <th>cashbackEndDate</th>
-    <th>stateMachinesState</th>
+    <th start>program</th>
+    <th>code</th>
+    <th>percentage</th>
+    <th>endDate</th>
+    <th>state</th>
 </>

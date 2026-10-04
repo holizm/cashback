@@ -10,28 +10,28 @@ import {
 const inputs = <>
     <Title />
     <Text
-        placeholder='cashbackCode'
+        placeholder='code'
         property='code'
         required
     />
     <DateTime
-        placeholder='cashbackStartDate'
+        placeholder='startDate'
         property='startDate'
     />
     <DateTime
-        placeholder='cashbackEndDate'
+        placeholder='endDate'
         property='endDate'
     />
     <Numeric
-        placeholder='corePercentage'
+        placeholder='percentage'
         property='percentage'
     />
     <Numeric
-        placeholder='coreMaximumAmount'
+        placeholder='maximumAmount'
         property='maximumAmount'
     />
     <LongText
-        placeholder='cashbackDescription'
+        placeholder='description'
         property='description'
     />
 </>

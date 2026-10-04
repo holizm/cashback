@@ -3,15 +3,15 @@ export default [
         children: [
             {
                 path: '/cashback/cashbackProgram/list',
-                title: 'cashbackPrograms',
+                title: 'programs',
             },
             {
                 path: '/cashback/cashbackTransaction/list',
-                title: 'cashbackTransactions',
+                title: 'transactions',
             },
         ],
         icon: 'savings',
         path: '/cashback',
-        title: 'cashbackCashback',
+        title: 'cashback',
     },
 ]
