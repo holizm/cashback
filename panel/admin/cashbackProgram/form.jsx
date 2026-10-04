@@ -10,30 +10,14 @@ import {
 const inputs = <>
     <Title />
     <Text
-        placeholder='code'
-        property='code'
+        code
         required
     />
-    <DateTime
-        placeholder='startDate'
-        property='startDate'
-    />
-    <DateTime
-        placeholder='endDate'
-        property='endDate'
-    />
-    <Numeric
-        placeholder='percentage'
-        property='percentage'
-    />
-    <Numeric
-        placeholder='maximumAmount'
-        property='maximumAmount'
-    />
-    <LongText
-        placeholder='description'
-        property='description'
-    />
+    <DateTime startDate />
+    <DateTime endDate />
+    <Numeric percentage />
+    <Numeric maximumAmount />
+    <LongText description />
 </>
 
 export default <DialogForm inputs={inputs} />

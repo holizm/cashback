@@ -9,11 +9,12 @@ import {
 
 const inputs = <>
     <Text
+        cashbackAccount
         placeholder='account'
-        property='cashbackAccount'
         required
     />
     <Select
+        cashbackTransactionType
         options={[
             'earn',
             'redeem',
@@ -22,23 +23,17 @@ const inputs = <>
             'adjust',
         ]}
         placeholder='transactionType'
-        property='cashbackTransactionType'
         required
     />
     <DateTime
-        placeholder='transactionDate'
-        property='transactionDate'
         required
+        transactionDate
     />
     <Numeric
-        placeholder='amount'
-        property='amount'
+        amount
         required
     />
-    <LongText
-        placeholder='description'
-        property='description'
-    />
+    <LongText description />
 </>
 
 export default <DialogForm inputs={inputs} />
