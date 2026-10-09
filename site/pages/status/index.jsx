@@ -1,12 +1,10 @@
 import { component$ } from '@builder.io/qwik'
-import {
-    Cashback,
-    loadCashback,
-} from 'cashback'
+import CashbackCashback from 'cashbackCashback'
+import cashbackLoadCashback from 'cashbackLoadCashback'
 
 export default component$(() => {
-    const data = loadCashback().value
-    return <Cashback {...data} />
+    const data = cashbackLoadCashback().value
+    return <CashbackCashback {...data} />
 })
 
-export { loadCashback }
+export { cashbackLoadCashback as loadCashback }

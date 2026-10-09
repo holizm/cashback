@@ -1,6 +1,6 @@
 import Item from 'item'
 import List from 'list'
-import { CashbackBalance } from 'cashback'
+import CashbackCashbackBalance from 'cashbackCashbackBalance'
 
 export default ({
     cashbackAccounts,
@@ -13,7 +13,7 @@ export default ({
                 inList
                 key={cashbackAccount.id}
             >
-                <CashbackBalance
+                <CashbackCashbackBalance
                     cashbackAccount={cashbackAccount}
                     key={cashbackAccount.id}
                 />
